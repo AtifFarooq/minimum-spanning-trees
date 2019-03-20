@@ -5,7 +5,6 @@ from random import uniform
 from random import sample
 from random import choice
 
-# u6104602: Assignment 2
 
 class Vertex:
     def __init__(self, coordinates):
